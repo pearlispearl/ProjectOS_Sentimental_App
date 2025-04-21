@@ -6,6 +6,6 @@
 
 ## Tutorial
 1. Download all file in *ProjectOS_Sentimental_App*
-2. Open file by using Jupyter Notebook or Google Colab
+2. Open file by using Jupyter Notebook or Google Colab. **(Reccomend to use Jupyter Notebook)**
 3. Before run file, please make sure that you uncomment all !pip to install the necessary librays
-4. Run 2 files follow by (Dataset) and (Code optimizing OS)
+4. Run 2 files follow by *_FinalProject_OS_Sentimental.ipynb* (Before OS optimization) and *project_OS_polar.ipynb* (Code optimizing OS)
