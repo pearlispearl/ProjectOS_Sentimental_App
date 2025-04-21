@@ -1,7 +1,7 @@
 # ProjectOS_Sentimental_App
 
 ## Explanation
-- *project_OS_polar.ipynb* is the a project's code file used by Jupyter Notebook and using polar.
+- *project_OS_polar.ipynb* is the a project's code file used by Jupyter Notebook and using Polars Dataframe Library (OS).
 - *Project_OS_Sentimental_final.ipynb* is the a project's code file used by Google Colab after optimizing OS.
 
 ## Tutorial
