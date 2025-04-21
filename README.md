@@ -7,4 +7,5 @@
 ## Tutorial
 1. Download all file in *ProjectOS_Sentimental_App*
 2. Open file by using Jupyter Notebook or Google Colab
-3. Run 2 files follow by (Dataset) and (Code optimizing OS)
+3. Before run file, please make sure tht you uncomment all !pip to install the necessary librays
+4. Run 2 files follow by (Dataset) and (Code optimizing OS)
