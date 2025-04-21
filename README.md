@@ -1,11 +1,12 @@
 # ProjectOS_Sentimental_App
 
 ## Explanation
-- *_FinalProject_OS_Sentimental.ipynb* is the a project's code file used by Google Colab (Before OS optimization).
-- *project_OS_polar.ipynb* is the a project's code file used by Jupyter Notebook and using Polars Dataframe Library (After OS optimization).
+- *_FinalProject_OS_Sentimental.ipynb* : This notebook contains the initial implementation of the project, developed and tested within the Google Colaboratory environment prior to operating system optimization.
+- *project_OS_polar.ipynb* : This notebook represents the optimized version of the project, utilizing the Polars DataFrame library for enhanced performance within a Jupyter Notebook environment.
 
 ## Tutorial
-1. Download all file in *ProjectOS_Sentimental_App*
-2. Open file by using Jupyter Notebook or Google Colab. **(Reccomend to use Jupyter Notebook)**
-3. Before run file, please make sure that you uncomment all !pip to install the necessary librays
-4. Run 2 files follow by *_FinalProject_OS_Sentimental.ipynb* (Before OS optimization) and *project_OS_polar.ipynb* (Code optimizing OS)
+To execute this project, please follow these steps:
+1. Download all file included in the *ProjectOS_Sentimental_App* directory.
+2. Open file by using Jupyter Notebook or Google Colaboratory **(Reccomend to use Jupyter Notebook)**.
+3. Before running the notebook, ensure that you uncomment all !pip commands to install the necessary libraries.
+4. Execute the notebooks in the following order: first, *_FinalProject_OS_Sentimental.ipynb* (Before OS optimization) with correct location of *sentimentdataset.csv* (Dataset) and *app_sentiment.py* (App) , followed by the notebook *project_OS_polar.ipynb* (Code optimizing OS).
