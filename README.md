@@ -2,7 +2,7 @@
 
 ## Explanation
 - `_FinalProject_OS_Sentimental.ipynb` : This notebook contains the initial implementation of the project, developed and tested within the Google Colaboratory environment prior to operating system optimization.
-- `project_OS_polar.ipynb` : This notebook represents the optimized version of the project, utilizing the Polars DataFrame library for enhanced performance within a Jupyter Notebook environment.
+- `_FinalProject_OS_Sentimental_Polar.ipynb` : This notebook represents the optimized version of the project, utilizing the Polars DataFrame library for enhanced performance within a Jupyter Notebook environment.
 
 ## Tutorial
 To execute this project, please follow these steps:
